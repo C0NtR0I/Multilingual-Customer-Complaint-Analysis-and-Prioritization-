@@ -3,6 +3,7 @@
 🚀 Developed and implemented a comprehensive data analysis and machine learning pipeline to prioritize and analyze customer complaints for an innovative cloud services company.
 
 Key Components
+
 📊 Data Preprocessing: Cleaning and preprocessing textual data, including translation, tokenization, lemmatization, and stopword removal.
 
 🔍 Exploratory Data Analysis: Extracting actionable insights on issue priority distribution, language detection, and description lengths.
